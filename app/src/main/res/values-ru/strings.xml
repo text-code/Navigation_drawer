@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_1">Объект 1</string>
+    <string name="title_2">Объект 2</string>
+    <string name="title_3">Объект 3</string>
+    <string name="header_title">Заголовок</string>
+    <string name="header_text">Текст заголовка</string>
+    <string name="subtitle">Подзаголовок</string>
+    <string name="top_app_bar">Top app bar</string>
+</resources>

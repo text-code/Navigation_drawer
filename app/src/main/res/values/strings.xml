@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Navigation drawer</string>
+    <string name="title_1">Item 1</string>
+    <string name="title_2">Item 2</string>
+    <string name="title_3">Item 3</string>
+    <string name="header_title">Header title</string>
+    <string name="header_text">Header text</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="top_app_bar">Top app bar</string>
+</resources>
